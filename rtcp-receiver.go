@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/pion/rtcp"
+	"github.com/huongnv75/go-rtcp"
 )
 
 type rtcpReceiverEvent interface {
